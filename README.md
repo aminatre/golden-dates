@@ -6,15 +6,23 @@ The project combines **web development, visual design, and user experience** to 
 
 ![Desktop Preview](img/fullpage-preview.png)
 
+**🔗 Live Demo:** https://aminatre.github.io/golden-dates/
+**🎨 Figma:** [Design file](https://www.figma.com/design/4lKCmWfRKfREl4G1PCmQPW/Gloden-Dates?node-id=91-65&t=5K84jtNQ9u7gKbVP-1)
+
+> 🚧 **Status:** In progress – hero section and navigation are complete, further sections and the shop page are being built.
+
 ## ✨ Features
 
-* Fixed navigation bar
-* Hero section with blurred glassmorphism effect
-* Responsive layout structure
-* Multi-page website with home and shop pages
-* Product-focused shop layout
-* Custom typography and visual styling
-* Footer with navigation and branding
+**Done**
+- Fixed navigation bar
+- Hero section with blurred glassmorphism effect
+- Custom typography and visual styling
+- Footer with navigation and branding
+
+**In progress**
+- Shop page with product layout
+- Responsive layout for mobile
+- Additional landing page sections
 
 ## 🛠️ Built With
 
@@ -75,10 +83,3 @@ Through this project, I practiced:
 * Add subtle animations and hover interactions
 * Improve reusable component patterns
 * Expand the shop experience with interactive functionality
-
-📌 Project Status
-
-The project is currently being developed.
-
-The hero section is implemented, with plans to expand the landing page with additional sections.
-Future development will focus on expanding the page, refining the visual design, and improving the overall user experience.
